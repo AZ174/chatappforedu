@@ -17,7 +17,7 @@ st.set_page_config(page_title="外语学习对话伙伴", page_icon="🗣️", l
 
 API_URL_DEFAULT = "https://zmgpt.cc"
 MODEL_DEFAULT = "gpt-4o-mini"
-API_KEY_DEFAULT = "sk-6qq5hf6VXQeYTDi65e9f4193DfAb404b8c1e2659234c1f18"
+API_KEY_DEFAULT = ""
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 DATA_DIR = os.path.join(BASE_DIR, ".data")
